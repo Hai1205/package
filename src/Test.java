@@ -1,5 +1,3 @@
-package main;
-
 import danh_sach.DSChiTietPhieuNhapHang;
 import quan_ly.QLChiTietPhieuNhapHang;
 
